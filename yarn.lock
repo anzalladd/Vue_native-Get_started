@@ -6456,17 +6456,17 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-vue-native-core@0.1.4:
+vue-native-core@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-core/-/vue-native-core-0.1.4.tgz#f30438b4570bd523e1014b2c3328dac0729568ba"
   integrity sha512-cydkjrW8c+QHCFUIwWRlaTLq918OP1n3gff5dyJ3usTS5199VOtfbYWKSQMcTNRrDwfNpiv8QEkHT3VufInHUg==
 
-vue-native-helper@0.1.4:
+vue-native-helper@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-helper/-/vue-native-helper-0.1.4.tgz#f6b91297df80464c0cc07e01d0740bc2b1d4efb0"
   integrity sha512-Tqahoxhjf5PiOB5iYZ7O+iayR+ws0voZ3xfeoI+U6OYQuBChYowpkFfykv6lbbz3s/JitA8GOXh7w/UnmNzJ7g==
 
-vue-native-scripts@0.1.4:
+vue-native-scripts@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-scripts/-/vue-native-scripts-0.1.4.tgz#58420e5f81868871a58b3a53aa051df87c401ac0"
   integrity sha512-AydcUz341E5VCLcn3JnaEC4pACVy4XJabQQIezFFOs7f3lb6KIdlYpx8kB3TTfO4Gd5zKCrbDuWqQ9JjXVI0lA==
@@ -6689,9 +6689,9 @@ xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 y18n@^4.0.0:
   version "4.0.0"
