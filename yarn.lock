@@ -4983,9 +4983,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^2.0.0:
   version "2.0.0"
@@ -6456,17 +6456,17 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-vue-native-core@0.1.4:
+vue-native-core@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-core/-/vue-native-core-0.1.4.tgz#f30438b4570bd523e1014b2c3328dac0729568ba"
   integrity sha512-cydkjrW8c+QHCFUIwWRlaTLq918OP1n3gff5dyJ3usTS5199VOtfbYWKSQMcTNRrDwfNpiv8QEkHT3VufInHUg==
 
-vue-native-helper@0.1.4:
+vue-native-helper@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-helper/-/vue-native-helper-0.1.4.tgz#f6b91297df80464c0cc07e01d0740bc2b1d4efb0"
   integrity sha512-Tqahoxhjf5PiOB5iYZ7O+iayR+ws0voZ3xfeoI+U6OYQuBChYowpkFfykv6lbbz3s/JitA8GOXh7w/UnmNzJ7g==
 
-vue-native-scripts@0.1.4:
+vue-native-scripts@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-scripts/-/vue-native-scripts-0.1.4.tgz#58420e5f81868871a58b3a53aa051df87c401ac0"
   integrity sha512-AydcUz341E5VCLcn3JnaEC4pACVy4XJabQQIezFFOs7f3lb6KIdlYpx8kB3TTfO4Gd5zKCrbDuWqQ9JjXVI0lA==
