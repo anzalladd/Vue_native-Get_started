@@ -1978,9 +1978,9 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -6456,17 +6456,17 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-vue-native-core@0.1.4:
+vue-native-core@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-core/-/vue-native-core-0.1.4.tgz#f30438b4570bd523e1014b2c3328dac0729568ba"
   integrity sha512-cydkjrW8c+QHCFUIwWRlaTLq918OP1n3gff5dyJ3usTS5199VOtfbYWKSQMcTNRrDwfNpiv8QEkHT3VufInHUg==
 
-vue-native-helper@0.1.4:
+vue-native-helper@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-helper/-/vue-native-helper-0.1.4.tgz#f6b91297df80464c0cc07e01d0740bc2b1d4efb0"
   integrity sha512-Tqahoxhjf5PiOB5iYZ7O+iayR+ws0voZ3xfeoI+U6OYQuBChYowpkFfykv6lbbz3s/JitA8GOXh7w/UnmNzJ7g==
 
-vue-native-scripts@0.1.4:
+vue-native-scripts@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/vue-native-scripts/-/vue-native-scripts-0.1.4.tgz#58420e5f81868871a58b3a53aa051df87c401ac0"
   integrity sha512-AydcUz341E5VCLcn3JnaEC4pACVy4XJabQQIezFFOs7f3lb6KIdlYpx8kB3TTfO4Gd5zKCrbDuWqQ9JjXVI0lA==
